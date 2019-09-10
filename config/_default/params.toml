@@ -138,6 +138,16 @@ sharing = false
   # Citation style ("apa" or "mla")
   citation_style = "apa"
 
+  # adsabs url
+  adsabs = "https://ui.adsabs.harvard.edu/abs/"
+
+  # arXiv url
+  arxiv = "https://arxiv.org/abs/"
+
+  # DOI url
+  doi = "https://doi.org/"
+
+
 # Configuration of project pages.
 [projects]
   # Views for associated content.

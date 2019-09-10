@@ -1,21 +1,21 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Ripple Patterns in In-plane Velocities of OB Stars from LAMOST and Gaia"
-authors: ["Cheng, Xinlun", "Liu, Chao", "Mao, Shude", "Cui, Wenyuan"]
-date: 2019-02-01T00:00:00+00:00
-doi: "10.3847/2041-8213/ab020e"
-arxiv: "1901.09305"
-adsid: "2019ApJ...872L...1C"
+title: "{{ replace .Name "-" " " | title }}"
+authors: []
+date: {{ .Date }}
+doi: ""
+arxiv: ""
+adsid: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-02-01T00:00:00+00:00
+publishDate: {{ .Date }}
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -26,7 +26,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Galaxy: disk", "Galaxy: kinematics and dynamics", "Galaxy: structure"]
+tags: []
 categories: []
 featured: false
 

@@ -6,6 +6,7 @@ authors: ["Cheng, Xinlun", "Liu, Chao", "Mao, Shude", "Cui, Wenyuan"]
 date: 2019-02-01T00:00:00+00:00
 doi: "10.3847/2041-8213/ab020e"
 arxiv: "1901.09305"
+# Astronomy specific: NASA adsabs id
 adsid: "2019ApJ...872L...1C"
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +19,7 @@ publishDate: 2019-02-01T00:00:00+00:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "The Astrophysical Journal Letters"
 publication_short: ""
 
 abstract: ""

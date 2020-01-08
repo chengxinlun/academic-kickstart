@@ -56,4 +56,4 @@ email: ""
 # - Visitors
 ---
 
-Some texts here.
+First year astronomy graduate student and long-time stargazer.

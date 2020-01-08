@@ -33,14 +33,12 @@ date_format = "Jan 2006"
     location = "University of Virginia"
     date_start = "2019-08-01"
     date_end = ""
-    description = """Exploring asymmetries in the kinematics of the Galactic disk with Gaia and APOGEE<br><br>
-    <ul>
-        <li><a href="https://internal.sdss.org/collaboration/projects/browse/select/id%3D722">SDSS-IV Project 0722</a></li>
-        <li>Converted observables to phase-space information</li>
-        <li>Compared observation results to existing numerical simulation</li>
-        <li>Built a simple warp model with Jeans equation</li>
-        <li>Paper in preparation</li>
-    </ul>"""
+    description = """Exploring asymmetries in the kinematics of the Galactic disk with Gaia and APOGEE
+* SDSS-IV Project 0722
+* Converted observables to phase-space information
+* Compared observation results to existing numerical simulation
+* Built a simple warp model with Jeans equation
+* Paper in preparation"""
 
 [[experience]]
     title = "Research Assistant"
@@ -49,13 +47,11 @@ date_format = "Jan 2006"
     location = "National Astronomical Observatory of China (NAOC)"
     date_start = "2018-05-01"
     date_end = "2019-03-31"
-    description = """Galactic kinematics with OB stars from LAMOST-Gaia dataset<br><br>
-    <ul>
-        <li>Coded adaptive kernel density estimation (KDE) in Python</li>
-        <li>Extracted kinematics structure from dataset with various methods</li>
-        <li>Determined most possible theoretical explanation for observed ripples in radial velocity</li>
-        <li><a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...872L...1C">Paper published in ApJ Letter</a></li>
-    </ul>"""
+    description = """Galactic kinematics with OB stars from LAMOST-Gaia dataset
+* Coded adaptive kernel density estimation (KDE) in Python
+* Extracted kinematics structure from dataset with various methods
+* Determined most possible theoretical explanation for observed ripples in radial velocity
+* [Paper published in ApJ Letter](https://ui.adsabs.harvard.edu/abs/2019ApJ...872L...1C)"""
 
 [[experience]]
     title = "Research Assistant"
@@ -64,14 +60,12 @@ date_format = "Jan 2006"
     location = "Tsinghua University"
     date_start = "2017-09-01"
     date_end = "2019-07-01"
-    description = """Confirmation of strong lensing candidates using CFHT Megacam<br><br>
-    <ul>
-        <li>Refined the candidate list from previous research experience during June 2017 - September 2017</li>
-        <li>Wrote observation proposal and designed details (exposure time, sequence of observation, etc.) of observation</li>
-        <li>Applied and approved for CFHT Megacam observation (18BS06) in September 2018 as the Principle Investigator</li>
-        <li>Processed Megacam imaging data (coadding, psf, photometry and foreground removal)</li>
-        <li><a href="http://www.raa-journal.org/raa/index.php/raa/article/view/4446">Paper published in RAA</a></li>
-    </ul>"""
+    description = """Confirmation of strong lensing candidates using CFHT Megacam
+* Refined the candidate list from previous research experience during June 2017 - September 2017
+* Wrote observation proposal and designed details (exposure time, sequence of observation, etc.) of observation
+* Applied and approved for CFHT Megacam observation (18BS06) in September 2018 as the Principle Investigator
+* Processed Megacam imaging data (coadding, psf, photometry and foreground removal)
+* [Paper published in RAA](http://www.raa-journal.org/raa/index.php/raa/article/view/4446)"""
 
 [[experience]]
     title = "Undergraduate Research Assistant"
@@ -80,13 +74,11 @@ date_format = "Jan 2006"
     location = "École Polytechnique Fédérale de Lausanne"
     date_start = "2017-06-01"
     date_end = "2017-09-30"
-    description = """Searching for galaxy-galaxy strong lensing candidates in SDSS-III BOSS<br><br>
-    <ul>
-        <li>Improved previous spectroscopic searching method</li>
-        <li>Data-processing code exceeds 10 thousand lines of Python</li>
-        <li>Searched through the entire database (~1.5 million galaxies) within 12 hours</li>
-        <li>Compiled a list of most possible strong lensing candidates</li>
-    </ul>"""
+    description = """Searching for galaxy-galaxy strong lensing candidates in SDSS-III BOSS
+* Improved previous spectroscopic searching method
+* Data-processing code exceeds 10 thousand lines of Python
+* Searched through the entire database (~1.5 million galaxies) within 12 hours
+* Compiled a list of most possible strong lensing candidates"""
 
 [[experience]]
     title = "Undergraduate Research Assistant"
@@ -95,10 +87,8 @@ date_format = "Jan 2006"
     location = "Tsinghua University"
     date_start = "2016-02-01"
     date_end = "2017-05-31"
-    description = """Searching for super-Eddington accreting black holes candidates in SDSS-III RM<br><br>
-    <ul>
-        <li>Built spectra decomposition programs from scratch in Python</li>
-        <li>Extensive literature reading</li>
-        <li>Compared Radius-Luminosity relationship with results from other researchers</li>
-    </ul>"""
+    description = """Searching for super-Eddington accreting black holes candidates in SDSS-III Reverberation Mapping campaign
+* Built spectra decomposition programs from scratch in Python
+* Extensive literature reading
+* Compared Radius-Luminosity relationship with results from other researchers"""
 +++

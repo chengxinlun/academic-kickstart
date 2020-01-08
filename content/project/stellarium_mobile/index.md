@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Stellarium_mobile"
+title: "Stellarium for Android"
 summary: ""
 authors: ["Xinlun Cheng", "Stellarium dev team"]
 tags: ["Software", "Stargazing"]
@@ -16,7 +16,7 @@ external_link: "https://github.com/chengxinlun/Stellarium-android"
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).

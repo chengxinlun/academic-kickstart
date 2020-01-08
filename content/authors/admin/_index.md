@@ -21,7 +21,6 @@ bio: Totally not an astronomer.
 
 interests:
 - "Astrophysics: Galactic kinematics"
-- "Astrophysics: Strong lensing"
 
 education:
   courses:
@@ -56,4 +55,6 @@ email: ""
 # - Visitors
 ---
 
-First year astronomy graduate student and long-time stargazer.
+Xinlun Cheng is a first year astronomy graduate student in University of Virginia. He got his bachelor degree in Physics from Tsinghua University. He had previous experience in many fields of astronomy and astrophysics, including AGN, strong gravitational lensing and galactic kinematics. His current interest lies in galactic kinematics. His advisor is Professor Steve Majewski, and he is currently working on exploring asymmetries in the kinematics of the galactic disk with Gaia and APOGEE data.
+
+Xinlun is also very enthusiastic about astronomy education. He has experience as an teaching assistance for introductory astronomy courses, and is very passionate in taking part in public outreach. He usually takes the role of constellation tour guide during outreach events. He is also a long-time stargazer and astrophotographer. Using his expertise in both stargazing and software engineering, he maintains a free version of Stellarium, a planetarium software, on Android. He loves taking and processing startrail and deep-space object images to reveal the beauty of the nightsky to the general public.

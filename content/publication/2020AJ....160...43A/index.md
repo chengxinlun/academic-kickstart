@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Search for strong galaxy-galaxy lensing in SDSS-III BOSS"
-authors: ["Cheng, Xinlun"]
-date: 2020-01-01T00:00:00+00:00
-doi: "10.1088/1674–4527/20/1/2"
-arxiv: "1909.08715"
+title: "The Stellar Velocity Distribution Function in the Milky Way Galaxy"
+authors: ["Anguiano, Borja", "Majewski, Steven R.", "Hayes, Christian R.", "Allende Prieto, Carlos", "Cheng, Xinlun", "Bidin, Christian Moni", "Beaton, Rachael L.", "Beers, Timothy C.", "Minniti, Dante"]
+date: 2020-07-01T00:00:00+00:00
+doi: "10.3847/1538-3881/ab9813"
+arxiv: "2005.14534"
 # Astronomy specific: NASA adsabs id
-adsid: "2020RAA....20...1C"
+adsid: "2020AJ....160...43A"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-01-01T00:00:00+00:00
+publishDate: 2020-07-01T00:00:00+00:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +19,7 @@ publishDate: 2019-01-01T00:00:00+00:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Research in Astronomy and Astrophysics"
+publication: "The Astronomical Journal"
 publication_short: ""
 
 abstract: ""
@@ -27,7 +27,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["gravitational lensing: strong", "techniques: spectroscopic", "methods: data analysis"]
+tags: ["Milky Way Galaxy", "Stellar kinematics", "Sky surveys"]
 categories: []
 featured: false
 

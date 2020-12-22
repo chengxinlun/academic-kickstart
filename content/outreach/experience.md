@@ -26,6 +26,16 @@ date_format = "Jan 2006"
 #   date_start = "2016-01-01"
 #   date_end = "2016-12-31"
 #   description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Telescope Operator"
+  company = "DSBK star party"
+  company_url = ""
+  location = "University of Virginia"
+  date_start = "2020-11-14"
+  date_end = "2020-11-14"
+  description = """Took part in star party organized by Darker Sky Brighter Kids (DSBK) on Nov 14. In charge of operating the Celestron 14-inch telescope and live-streaming to DSBK Facebook."""
+
 [[experience]]
   title = "Telescope Operator"
   company = "McCormick Public Night"
@@ -43,6 +53,17 @@ date_format = "Jan 2006"
   date_start = "2019-10-28"
   date_end = "2019-10-28"
   description = """Took part in star party organized by Darker Sky Brighter Kids (DSBK) on Oct 28. In charge of giving constellation tour to about 500 audience. Also helped with telescope setting-up."""
+
+[[experience]]
+  title = "Member"
+  company = "Dark Sky Bright Kids (DSBK)"
+  company_url = ""
+  location = "University of Virginia"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = """Member of outreach group Dark Sky Bright Kids.
+  * Operated telescopes during star party
+  * Planned weekly outreach activity during planning meeting"""
 
 [[experience]]
   title = "Kernel Member"

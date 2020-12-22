@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Stellarium for Android"
+title: "Visualization of Galactic Warp Model"
 summary: ""
-authors: ["Cheng, Xinlun", "Stellarium dev team"]
-tags: ["Software", "Stargazing"]
+authors: ["Cheng, Xinlun"]
+tags: ["Research"]
 categories: []
-date: 2020-01-08T12:33:35-05:00
+date: 2020-10-01T12:33:35-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/chengxinlun/Stellarium-android"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,3 +39,12 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Animation of Galactic warp model presented in our paper.
+
+{{< video src="galactic_warp_textured_rf.mp4" controls="yes" >}}
+From the perspective of an observer at a fixed point in space.
+
+{{< video src="galactic_warp_textured_solar.mp4" controls="yes" >}}
+From the perspective of an observer following the Sun.
+
+Animation made with blender. Texture of the Galaxy from NASA.

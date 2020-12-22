@@ -26,13 +26,43 @@ date_format = "Jan 2006"
 #   date_start = "2016-01-01"
 #   date_end = "2016-12-31"
 #   description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Lab Operator"
+  company = "Telescope Observation"
+  company_url = ""
+  location = "University of Virginia"
+  date_start = "2020-09-01"
+  date_end = "2020-12-01"
+  description = """Lab operator for telescope observation nightlab. Due to Covid-19 pandanmic, the lab is remote only."""
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "ASTR 1210"
+  company_url = ""
+  location = "University of Virginia"
+  date_start = "2020-09-01"
+  date_end = "2020-12-01"
+  description = """TA and grader for ASTR 1210 (Introduction to the Night Sky and Solar System)\n
+Course instructor: Professor Trinh Thuan"""
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "ASTR 1210"
+  company_url = ""
+  location = "University of Virginia"
+  date_start = "2020-09-01"
+  date_end = "2020-12-01"
+  description = """TA and grader for ASTR 1210 (Introduction to the Night Sky and Solar System)\n
+Course instructor: Professor Ed Murphy"""
+
 [[experience]]
   title = "Teaching Assistant"
   company = "ASTR 3130"
   company_url = ""
   location = "University of Virginia"
   date_start = "2020-01-01"
-  date_end = ""
+  date_end = "2020-05-01"
   description = """TA and grader for ASTR 3130 (Observational Astronomy)\n
 Course instructor: Professor Mike Skrutskie"""
 

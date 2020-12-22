@@ -38,6 +38,7 @@ date_format = "Jan 2006"
 * Millions of stars from Gaia Data Release 2
 * Computed intrinsic velocity dispersion by removing the contribution from uncertainty of individual stars
 * Combined Jeans Equation and Poisson Equation to measure the surface density of any given point in our Galaxy
+* Compared to models of visible matter to extract the distribution of dark matter
 """
 
 [[experience]]
@@ -47,9 +48,9 @@ date_format = "Jan 2006"
     location = "University of Virginia"
     date_start = "2020-05-01"
     date_end = ""
-    description = """Kinematical Analysis of Substructure in the Periphery of the Large Magellanic Cloud
-* Gaia Early Data Release 3
-* Kinematical structures of Periphery of Large Magellanic Cloud
+    description = """Kinematical Analysis of Substructure in the Large Magellanic Cloud
+* Millions of stars from Gaia Early Data Release 3
+* Examined the kinematical structures of the Large Magellanic Cloud
 * Collaboration with research group from NMSU, STScI and NOAO
 * Paper in preparation"""
 

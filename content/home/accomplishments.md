@@ -28,6 +28,26 @@ date_format = "Jan 2006"
 #   date_end = "2017-12-21"
 #   description = ""
 [[item]]
+  organization = "University of Virginia"
+  organization_url = ""
+  title = "Jefferson Fellowship"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-06-13"
+  date_end = "2024-05-10"
+  description = "The Jefferson Fellowship competition offers doctoral students in Arts & Sciences departments an opportunity to obtain full fellowship support, a research fund, and a release from assistantship responsibilities during their first two post-candidacy years."
+
+[[item]]
+  organization = "University of Virginia"
+  organization_url = ""
+  title = "Dean's MS-PhD Fellowship in Data Science"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-06-13"
+  date_end = "2022-05-10"
+  description = "An incremental year of fellowship support for the purpose of obtaining a master’s degree in Data Science en route to completing the PhD"
+
+[[item]]
   organization = "Tsinghua Univeristy"
   organization_url = ""
   title = "Xuetang Elite Undergraduate Fellowship"

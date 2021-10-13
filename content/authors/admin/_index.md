@@ -15,18 +15,25 @@ role: Graduate Student
 organizations:
 - name: Department of Astronomy, University of Virginia
   url: "https://astronomy.as.virginia.edu/"
+- name: School of Data Science, University of Virginia
+  url: "https://datascience.virginia.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Totally not an astronomer.
 
 interests:
 - "Astrophysics: Galactic kinematics"
+- "Astroinformatics"
 
 education:
   courses:
+  - course: Master in Data Science
+    institution: University of Virginia
+    year: 2022
   - course: BSc in Physics
     institution: Tsinghua University
     year: 2018
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

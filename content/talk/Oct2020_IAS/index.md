@@ -25,7 +25,7 @@ all_day: true
 publishDate: "2021-02-01T00:00:00Z"
 
 authors: ["Cheng, Xinlun", "Anguiano, Borja", "Majewski, Steven R.", "Hayes, Christian", "Arras, Phil", "Chiappini, Cristina", "Hasselquist, Sten", "APOGEE Team"]
-tags: ["Research Talk", "AAS"]
+tags: ["Research Talk"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -45,7 +45,7 @@ url_pdf: "files/Galactic_Warp_IAS_2020.pdf"
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides:
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

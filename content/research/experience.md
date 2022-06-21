@@ -31,11 +31,40 @@ date_format = "Jan 2006"
     title = "Graduate Research Assistant"
     company = "Advisor: Professor Steve Majewski"
     company_url = ""
-    location = "University of Virginia"
+    location = "Department of Astronomy, University of Virginia"
+    date_start = "2022-06-01"
+    date_end = ""
+    description = """Searching for White Dwarf Main Sequence (WDMS) Binary Systems with Neural Network
+* Millions of low resolution stellar spectra from Gaia Data Release 3
+* ~700 confirmed WDMS systems with both high and low resolution spectra as training setting-up
+* Data augmentation with synthetic training data
+* Developing a two-headed neural network to classify WDMS systems and fit orbital parameters
+* Interpreting the decision making process of the trained model through visualization methods
+"""
+
+[[experience]]
+    title = "Graduate Research Assistant"
+    company = "Advisor: Professor Stephen Baek"
+    company_url = ""
+    location = "School of Data Science, University of Virginia"
+    date_start = "2022-05-01"
+    date_end = ""
+    description = """Accelerating Spin Dynamics Numerical Simulation with Physics-Aware Neural Network
+* Accelerating quantum mechanics simulation with neural network
+* Developing a neural network for inference of force that would preserve SO(3) rotational symmetry in the underlying physics system
+* Developing a physics-aware neural network that could replace the traditional FEM numerical solver
+for the spin dynamics problem
+"""
+
+[[experience]]
+    title = "Graduate Research Assistant"
+    company = "Advisor: Professor Steve Majewski"
+    company_url = ""
+    location = "Department of Astronomy, University of Virginia"
     date_start = "2020-03-01"
     date_end = ""
     description = """Density Map of the Milky Way Galaxy
-* Millions of stars from Gaia Data Release 2
+* Millions of stars from Gaia Data Release 3
 * Computed intrinsic velocity dispersion by removing the contribution from uncertainty of individual stars
 * Combined Jeans Equation and Poisson Equation to measure the surface density of any given point in our Galaxy
 * Compared to models of visible matter to extract the distribution of dark matter
@@ -45,20 +74,20 @@ date_format = "Jan 2006"
     title = "Graduate Research Assistant"
     company = "Advisor: Professor Steve Majewski"
     company_url = ""
-    location = "University of Virginia"
+    location = "Department of Astronomy, University of Virginia"
     date_start = "2020-05-01"
-    date_end = ""
+    date_end = "2022-03-01"
     description = """Kinematical Analysis of Substructure in the Large Magellanic Cloud
 * Millions of stars from Gaia Early Data Release 3
 * Examined the kinematical structures of the Large Magellanic Cloud
 * Collaboration with research group from NMSU, STScI and NOAO
-* Paper in preparation"""
+* [Paper published in ApJ](https://ui.adsabs.harvard.edu/abs/2022ApJ...928...95C)"""
 
 [[experience]]
     title = "Graduate Research Assistant"
     company = "Advisor: Professor Steve Majewski"
     company_url = ""
-    location = "University of Virginia"
+    location = "Department of Astronomy, University of Virginia"
     date_start = "2019-08-01"
     date_end = "2020-12-01"
     description = """Exploring asymmetries in the kinematics of the Galactic disk with Gaia and APOGEE
@@ -85,7 +114,7 @@ date_format = "Jan 2006"
     title = "Research Assistant"
     company = "Advisor: Professor Shude Mao"
     company_url = ""
-    location = "Tsinghua University"
+    location = "Department of Physics, Tsinghua University"
     date_start = "2017-09-01"
     date_end = "2019-07-01"
     description = """Confirmation of strong lensing candidates using CFHT Megacam
@@ -112,7 +141,7 @@ date_format = "Jan 2006"
     title = "Undergraduate Research Assistant"
     company = "Advisor: Professor Charling Tao"
     company_url = ""
-    location = "Tsinghua University"
+    location = "Department of Physics, Tsinghua University"
     date_start = "2016-02-01"
     date_end = "2017-05-31"
     description = """Searching for super-Eddington accreting black holes candidates in SDSS-III Reverberation Mapping campaign

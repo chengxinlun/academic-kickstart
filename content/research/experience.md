@@ -34,11 +34,11 @@ date_format = "Jan 2006"
     location = "Department of Astronomy, University of Virginia"
     date_start = "2022-06-01"
     date_end = ""
-    description = """Searching for White Dwarf Main Sequence (WDMS) Binary Systems with Neural Network
-* Millions of low resolution stellar spectra from Gaia Data Release 3
-* ~700 confirmed WDMS systems with both high and low resolution spectra as training setting-up
+    description = """Searching for White Dwarf Main Sequence (WDMS) Binary Systems with Neural Networks
+* Search through millions of low resolution stellar spectra from Gaia Data Release 3
+* ~700 confirmed WDMS systems with both high and low resolution spectra as training sample
 * Data augmentation with synthetic training data
-* Developing a two-headed neural network to classify WDMS systems and fit orbital parameters
+* Developing a two-headed neural network to classify WDMS systems and fit stellar parameters
 * Interpreting the decision making process of the trained model through visualization methods
 """
 

@@ -9,12 +9,10 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: Postdoc Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Astronomy, University of Virginia
-  url: "https://astronomy.as.virginia.edu/"
 - name: School of Data Science, University of Virginia
   url: "https://datascience.virginia.edu/"
 
@@ -22,12 +20,17 @@ organizations:
 bio: Totally not an astronomer.
 
 interests:
+- "Physics-informed Machine Learning"
+- "Computational Fluid Dynamics"
 - "Astrophysics: Galactic kinematics"
 - "Astroinformatics"
 
 education:
   courses:
-  - course: Master in Data Science
+  - course: PhD in Astronomy
+    institution: University of Virginia
+    year: 2024
+  - course: MSc in Data Science
     institution: University of Virginia
     year: 2022
   - course: BSc in Physics
@@ -62,8 +65,8 @@ email: ""
 # - Visitors
 ---
 
-Xinlun Cheng is an astronomy PhD student in University of Virginia. He got his bachelor degree in Physics from Tsinghua University and Master of Data Science (MSDS) from University of Data Science. He had previous experience in many fields of astronomy and astrophysics, including AGN, strong gravitational lensing and galactic kinematics. His current interest lies in galactic kinematics. His advisor is Professor Steve Majewski, and he is currently working on exploring asymmetries in the kinematics of the galactic disk with Gaia and APOGEE data, and searching for white dwarf-main sequence (WD-MS) candidates with machine learning. He is also interested in the kinematics and dynamics of Magellanic Clouds.
+Xinlun Cheng is a Postdoc Research Associate in University of Virginia. He got his bachelor degree in Physics from Tsinghua University, Master of Data Science (MSDS Residential) from University of Virginia, and PhD in Astronomy from University of Virginia. He is currently working with Professor Stephen Baek on physics-informed machine learning, and AI4Science. He is interested in designing AI architecture and training strategy that achieves high prediction accuracy under data starve scenarios, and application of AI technology in accelerating numerical simulations.
 
-Xinlun has also received professional data science training during his time at UVA. He is currently doing research on acceleration of quantum physics numerical simulation using physics-aware neural network with Professor Stephen Baek after graduating with MSDS in Spring 2022.
+He had previous experience in many fields of astronomy and astrophysics, including AGN, strong gravitational lensing and galactic kinematics. His current interest lies in galactic kinematics. His advisor is Professor Steve Majewski, and he worked on exploring asymmetries in the kinematics of the galactic disk with Gaia and APOGEE data, and searching for white dwarf-main sequence (WD-MS) candidates with machine learning. He is also interested in the kinematics and dynamics of Magellanic Clouds.
 
-Xinlun is also very enthusiastic about astronomy education. He has experience as an teaching assistance for introductory astronomy courses and undergraduate observation labs for astronomy major, and is very passionate in taking part in public outreach. He usually takes the role of constellation tour guide during outreach events. He is also a long-time stargazer and astrophotographer. Using his expertise in both stargazing and software engineering, he maintains a free version of Stellarium, a planetarium software, on Android. He loves taking and processing startrail and deep-space object images to reveal the beauty of the nightsky to the general public.
+Xinlun is also very enthusiastic about science education. He has experience as an teaching assistance for introductory astronomy courses and undergraduate observation labs for astronomy major, and is very passionate in taking part in public outreach. He usually takes the role of constellation tour guide during outreach events. He is also a long-time stargazer and astrophotographer. Using his expertise in both stargazing and software engineering, he maintains a free version of Stellarium, a planetarium software, on Android. He loves taking and processing startrail and deep-space object images to reveal the beauty of the nightsky to the general public.

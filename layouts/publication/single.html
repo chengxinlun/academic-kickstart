@@ -5,31 +5,27 @@
 
   {{ partial "page_header.html" . }}
 
-  <div class="article-container">
+  <div class="universal-wrapper">
 
     {{ if .Params.abstract }}
     <h3>{{ i18n "abstract" }}</h3>
     <p class="pub-abstract" itemprop="text">{{ .Params.abstract | markdownify }}</p>
     {{ end }}
 
+    <div class="space-below"></div>
+
+    <div class="article-style">{{ .Content }}</div>
+
     {{ if .Params.publication }}
     <div class="row">
-      <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">{{ i18n "publication" }}</div>
           <div class="col-12 col-md-9">{{ .Params.publication | markdownify }}</div>
         </div>
       </div>
-      <div class="col-md-1"></div>
     </div>
-    <div class="d-md-none space-below"></div>
     {{ end }}
-
-    <div class="space-below"></div>
-
-    <div class="article-style">{{ .Content }}</div>
-
 
     <div class="row">
         <div class="col-md-10">
@@ -84,7 +80,7 @@
 </div>
 
 {{ if site.Params.section_pager }}
-<div class="article-container article-widget">
+<div class="universal-wrapper article-widget">
   {{ partial "section_pager.html" . }}
 </div>
 {{ end }}

@@ -46,13 +46,13 @@
   {{ $image_container = "container-fluid" }}
   {{ $image := $featured.Fit "2560x2560" }}
 {{else}}
-  {{ $image_container = "article-container" }}
+  {{ $image_container = "universal-wrapper" }}
   {{ if gt $featured.Width 720 }}
     {{ $image = $featured.Resize "720x" }}
   {{ end }}
 {{end}}
 
-<div class="article-container pt-3">
+<div class="universal-wrapper pt-3">
   <h1 itemprop="name">{{ $title }}</h1>
 
   {{ with $page.Params.subtitle }}
@@ -74,7 +74,7 @@
   {{/* Case when page has no image */}}
 
   {{/* Wider container for nodes */}}
-  {{ $ctnr := "article-container" }}
+  {{ $ctnr := "universal-wrapper" }}
   {{ if $page.IsNode }}
     {{ $ctnr = "universal-wrapper" }}
   {{end}}

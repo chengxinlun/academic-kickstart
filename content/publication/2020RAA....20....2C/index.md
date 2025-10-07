@@ -70,3 +70,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+### Abstract
+Strong lensing is one of the most spectacular views in the universe. Many cosmological applications have been proposed, but the number of such lensing systems is still limited. In this work, we applied an improved version of a previously developed spectroscopic lensing search method to the SDSS-III BOSS and proposed a list of highly possible candidates. Follow-up CFHT Megacam imaging observations were performed for five systems, and two out of five are probably strong lensing systems with at least one image close to the central galaxy, although no counter images are detected.

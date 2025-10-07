@@ -39,7 +39,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "https://iopscience.iop.org/article/10.3847/2041-8213/ab020e/pdf"
 url_code:
 url_dataset:
 url_poster:

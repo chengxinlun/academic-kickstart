@@ -18,14 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-# [[experience]]
-#   title = "Professor"
-#   company = "University X"
-#   company_url = ""
-#   location = "California"
-#   date_start = "2016-01-01"
-#   date_end = "2016-12-31"
-#   description = """Taught electronic engineering and researched semiconductor physics."""
+[[experience]]
+   title = "Postdoctal Research Associate"
+   company = "Advisor: Professor Stephen Baek"
+   company_url = ""
+   location = "School of Data Science, University of Virginia"
+   date_start = "2024-07-01"
+   date_end = ""
+   description = """AI4Science and Physis-informed Machine Learning
+* Designed the in-house AI architecture PARCv2, published in ICML 2024
+* Designed various improvements to PARCv2 on boundary condition treatment, multi-resolution, multi-phase materials, resulted in various publications
+* Trained and evaluated AI models for quantum mechanical spin dynamics, preserving the symmetry of underlying system
+* Trained and evaluated AI models for reactive material modeling under a wide range of initial shock conditions
+* Trained and evaluated AI models for turbulent flow, developed multi-resolution architecture for enhanced accuracy
+* Simulated two-phase flow with OpenFOAM
+* Processed multiple TBs of raw data into training, validation and test dataset
+* Optimized AI model for less memory usage and distributed training
+* Contributed to research proposal from advisor
+"""
 
 [[experience]]
     title = "Graduate Research Assistant"
@@ -33,7 +43,7 @@ date_format = "Jan 2006"
     company_url = ""
     location = "Department of Astronomy, University of Virginia"
     date_start = "2022-06-01"
-    date_end = ""
+    date_end = "2024-05-01"
     description = """Searching for White Dwarf Main Sequence (WDMS) Binary Systems with Neural Networks
 * Search through millions of low resolution stellar spectra from Gaia Data Release 3
 * ~700 confirmed WDMS systems with both high and low resolution spectra as training sample
@@ -48,7 +58,7 @@ date_format = "Jan 2006"
     company_url = ""
     location = "School of Data Science, University of Virginia"
     date_start = "2022-05-01"
-    date_end = ""
+    date_end = "2024-05-01"
     description = """Accelerating Spin Dynamics Numerical Simulation with Physics-Aware Neural Network
 * Accelerating quantum mechanics simulation with neural network
 * Developing a neural network for inference of force that would preserve SO(3) rotational symmetry in the underlying physics system
@@ -62,7 +72,7 @@ for the spin dynamics problem
     company_url = ""
     location = "Department of Astronomy, University of Virginia"
     date_start = "2020-03-01"
-    date_end = ""
+    date_end = "2024-05-01"
     description = """Density Map of the Milky Way Galaxy
 * Millions of stars from Gaia Data Release 3
 * Computed intrinsic velocity dispersion by removing the contribution from uncertainty of individual stars

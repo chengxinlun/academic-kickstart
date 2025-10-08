@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Ripple Patterns in In-plane Velocities of OB Stars from LAMOST and Gaia"
-authors: ["Cheng, Xinlun", "Liu, Chao", "Mao, Shude", "Cui, Wenyuan"]
+authors: ["**Cheng, Xinlun**", "Liu, Chao", "Mao, Shude", "Cui, Wenyuan"]
 date: 2019-02-01T00:00:00+00:00
 doi: "10.3847/2041-8213/ab020e"
 arxiv: "1901.09305"
@@ -19,7 +19,7 @@ publishDate: 2019-02-01T00:00:00+00:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Astrophysical Journal Letters"
+publication: "The Astrophysical Journal Letters (2019), 872, L1"
 publication_short: ""
 
 abstract: ""
@@ -39,7 +39,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://iopscience.iop.org/article/10.3847/2041-8213/ab020e/pdf"
+url_pdf:
 url_code:
 url_dataset:
 url_poster:

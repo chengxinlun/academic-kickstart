@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: " Kinematical Analysis of Substructure in the Southern Periphery of the Large Magellanic Cloud "
-authors: ["Cheng, Xinlun",  "Choi, Yumi", "Olsen, Knut", "Nidever, David L.", "Majewski, Steven R.", "Monachesi, Antonela", "Besla, Gurtina", "Muñoz Gonzalez, Cesar", "Anguiano, Borja", "Almeida, Andres", "Muñoz, Ricardo R.", "Lane, Richard R.", "Nitschelm, Christian"]
+authors: ["**Cheng, Xinlun**",  "Choi, Yumi", "Olsen, Knut", "Nidever, David L.", "Majewski, Steven R.", "Monachesi, Antonela", "Besla, Gurtina", "Muñoz Gonzalez, Cesar", "Anguiano, Borja", "Almeida, Andres", "Muñoz, Ricardo R.", "Lane, Richard R.", "Nitschelm, Christian"]
 date: 2022-03-01T00:00:00+00:00
 doi: "10.3847/1538-4357/ac5621"
 arxiv: "2202.12789"
@@ -19,7 +19,7 @@ publishDate: 2022-03-01T00:00:00+00:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Astrophysical Journal"
+publication: "The Astrophysical Journal (2022), 928, 95"
 publication_short: ""
 
 abstract: ""

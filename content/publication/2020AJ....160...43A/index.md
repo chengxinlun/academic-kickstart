@@ -1,10 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-math: true
-
 title: "The Stellar Velocity Distribution Function in the Milky Way Galaxy"
-authors: ["Anguiano, Borja", "Majewski, Steven R.", "Hayes, Christian R.", "Allende Prieto, Carlos", "Cheng, Xinlun", "Bidin, Christian Moni", "Beaton, Rachael L.", "Beers, Timothy C.", "Minniti, Dante"]
+authors: ["Anguiano, Borja", "Majewski, Steven R.", "Hayes, Christian R.", "Allende Prieto, Carlos", "**Cheng, Xinlun**", "Bidin, Christian Moni", "Beaton, Rachael L.", "Beers, Timothy C.", "Minniti, Dante"]
 date: 2020-07-01T00:00:00+00:00
 doi: "10.3847/1538-3881/ab9813"
 arxiv: "2005.14534"
@@ -21,7 +18,7 @@ publishDate: 2020-07-01T00:00:00+00:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Astronomical Journal"
+publication: "The Astronomical Journal (2020), 160, 43"
 publication_short: ""
 
 abstract: ""

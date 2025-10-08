@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: " Exploring the Galactic Warp through Asymmetries in the Kinematics of the Galactic Disk"
-authors: ["Cheng, Xinlun", "Anguiano, Borja", "Majewski, Steven R.", "Hayes, Christian", "Arras, Phil", "Chiappini, Cristina", "Hasselquist, Sten", "de Andrade Queiroz, Anna Barbara", "Nitschelm, Christian", "García-Hernandez, Domingo Anibal", "Lane, Richard R.", "Roman-Lopes, Alexandre", "Frinchaboy, Peter M."]
+authors: ["**Cheng, Xinlun**", "Anguiano, Borja", "Majewski, Steven R.", "Hayes, Christian", "Arras, Phil", "Chiappini, Cristina", "Hasselquist, Sten", "de Andrade Queiroz, Anna Barbara", "Nitschelm, Christian", "García-Hernandez, Domingo Anibal", "Lane, Richard R.", "Roman-Lopes, Alexandre", "Frinchaboy, Peter M."]
 date: 2020-12-01T00:00:00+00:00
 doi: "10.3847/1538-4357/abc3c2"
 arxiv: "2010.10398"
@@ -19,7 +19,7 @@ publishDate: 2020-12-01T00:00:00+00:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Astrophysical Journal"
+publication: "The Astrophysical Journal (2020), 905, 49"
 publication_short: ""
 
 abstract: ""

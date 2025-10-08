@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Search for strong galaxy-galaxy lensing in SDSS-III BOSS"
-authors: ["Cheng, Xinlun"]
+authors: ["**Cheng, Xinlun**"]
 date: 2020-01-01T00:00:00+00:00
 doi: "10.1088/1674-4527/20/1/2"
 arxiv: "1909.08715"
@@ -19,7 +19,7 @@ publishDate: 2019-01-01T00:00:00+00:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Research in Astronomy and Astrophysics"
+publication: "Research in Astronomy and Astrophysics (2020), 20, 002"
 publication_short: ""
 
 abstract: ""

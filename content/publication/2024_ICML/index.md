@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Machine learning", "Artificial intelligence", "AI4Science", "Physics-informed machine learning", "AI4Science"]
+tags: ["Machine learning", "Artificial intelligence", "Physics-informed machine learning", "Fluid dynamics", "Reactive flow", "AI4Science"]
 categories: []
 featured: false
 

@@ -28,70 +28,64 @@ date_format = "Jan 2006"
 #   description = """Taught electronic engineering and researched semiconductor physics."""
 
 [[experience]]
-  title = "Lab Operator"
-  company = "Telescope Observation"
+  title = "Instructor"
+  company = "University of Virginia"
   company_url = ""
-  location = "University of Virginia"
-  date_start = "2020-09-01"
-  date_end = "2020-12-01"
-  description = """Lab operator for telescope observation nightlab. Due to Covid-19 pandanmic, the lab is remote only."""
+  location = ""
+  date_start = "2023-07-01"
+  date_end = "2023-09-01"
+  description = """* Instructor for ASTR 1280 (The Origin of Almost Everything)"""
 
 [[experience]]
-  title = "Teaching Assistant"
-  company = "ASTR 1210"
+  title = "Graduate Teaching Assistant"
+  company = "University of Virginia"
   company_url = ""
-  location = "University of Virginia"
-  date_start = "2020-09-01"
-  date_end = "2020-12-01"
-  description = """TA and grader for ASTR 1210 (Introduction to the Night Sky and Solar System)\n
-Course instructor: Professor Trinh Thuan"""
+  location = ""
+  date_start = "2021-01-01"
+  date_end = "2021-05-01"
+  description = """* TA and grader for ASTR 3130 (Observational Astronomy)
+
+Course instructor: Professor Steven R. Majewski"""
 
 [[experience]]
-  title = "Teaching Assistant"
-  company = "ASTR 1210"
+  title = "Graduate Teaching Assistant"
+  company = "University of Virginia"
   company_url = ""
-  location = "University of Virginia"
+  location = ""
   date_start = "2020-09-01"
   date_end = "2020-12-01"
-  description = """TA and grader for ASTR 1210 (Introduction to the Night Sky and Solar System)\n
-Course instructor: Professor Ed Murphy"""
+  description = """* TA and grader for ASTR 1210 (Introduction to the Night Sky and Solar System)
+
+Course instructor: Professor Trinh Thuan
+* TA and grader for ASTR 1210 (Introduction to the Night Sky and Solar System)
+
+Course instructor: Professor Ed Murphy
+* Telescope lab operator"""
 
 [[experience]]
-  title = "Teaching Assistant"
-  company = "ASTR 3130"
+  title = "Graduate Teaching Assistant"
+  company = "University of Virginia"
   company_url = ""
-  location = "University of Virginia"
+  location = ""
   date_start = "2020-01-01"
   date_end = "2020-05-01"
-  description = """TA and grader for ASTR 3130 (Observational Astronomy)\n
+  description = """* TA and grader for ASTR 3130 (Observational Astronomy)
+
 Course instructor: Professor Mike Skrutskie"""
 
 [[experience]]
-  title = "Lab Operator"
-  company = "Constellation quiz nightlab"
+  title = "Graduate Teaching Assistant"
+  company = "University of Virginia"
   company_url = ""
-  location = "University of Virginia"
+  location = ""
   date_start = "2019-09-01"
   date_end = "2019-12-01"
-  description = """Lab operator for constellaqion quiz nightlab. In charge of 10pm-11pm session every Monday and Thursday."""
+  description = """* TA and grader for ASTR 1210 (Introduction to the Night Sky and Solar System)
 
-[[experience]]
-  title = "Teaching Assistant"
-  company = "ASTR 1210"
-  company_url = ""
-  location = "University of Virginia"
-  date_start = "2019-09-01"
-  date_end = "2019-12-01"
-  description = """TA and grader for ASTR 1210 (Introduction to the Night Sky and Solar System)\n
-Course instructor: Professor Ed Murphy"""
+Course instructor: Professor Ed Murphy
+* TA and grader for ASTR 1210 (Introduction to the Night Sky and Solar System)
 
-[[experience]]
-  title = "Teaching Assistant"
-  company = "ASTR 1210"
-  company_url = ""
-  location = "University of Virginia"
-  date_start = "2019-09-01"
-  date_end = "2019-12-01"
-  description = """TA and grader for ASTR 1210 (Introduction to the Night Sky and Solar System)\n
-Course instructor: Professor Zhi-Yun Li"""
+Course instructor: Professor Zhi-Yun Li
+* Lab operator for constellation lab."""
+
 +++

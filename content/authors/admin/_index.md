@@ -22,7 +22,7 @@ bio: Totally not an astronomer.
 interests:
 - "Physics-informed Machine Learning"
 - "Computational Fluid Dynamics"
-- "Astrophysics: Galactic kinematics"
+- "AI4Science"
 - "Astroinformatics"
 
 education:
@@ -43,12 +43,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
+- icon: fa-envelope
   icon_pack: fas
   link: 'mailto:xc7ts@virginia.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: github
+- icon: fa-github
   icon_pack: fab
-  link: https://github.com/chengxinlun
+  link: "https://github.com/chengxinlun"
+- icon: fa-orcid
+  icon_pack: fa-brands
+  link: "https://orcid.org/0000-0002-7009-3957"
+- icon: fa-google-scholar
+  icon_pack: fa-brands
+  link: "https://scholar.google.com/citations?user=4LhOBvYAAAAJ"
+- icon: fa-researchgate
+  icon_pack: fa-brands
+  link: "https://www.researchgate.net/profile/Xinlun-Cheng"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv

@@ -4,7 +4,7 @@ title: Kinematical Analysis of Substructure in the Southern Periphery of the Lar
 event: APOGEE Science Call
 event_url: 
 
-location: APOGEE Science Call
+location: Remote
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford

@@ -37,12 +37,16 @@
 
   {{ if eq $item.Type "talk" }}
   <div class="article-metadata">
+    <span itemprop="event">
+      {{ $item.Params.event }}
+    </span>
+    <br>
     <span itemprop="startDate">
-      {{ partial "functions/get_event_dates" $item }}
+      {{ $item.Params.date.Format (site.Params.publications.date_format | default "January, 2006") }}
     </span>
     {{ with $item.Params.location }}
-    <span class="middot-divider"></span>
-    <span itemprop="location">{{ . }}</span>
+      <span class="middot-divider">---</span>
+      <span itemprop="location">{{ . }}</span>
     {{ end }}
   </div>
   {{ end }}

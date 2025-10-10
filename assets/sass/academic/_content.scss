@@ -9,3 +9,7 @@ h1 {
   letter-spacing: 0.03em;
   color: rgba(0,0,0,0.54);
 }
+
+.article-container {
+  @extend .universal-wrapper;
+}

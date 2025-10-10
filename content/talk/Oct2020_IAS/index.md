@@ -1,10 +1,10 @@
 ---
 title: Exploring the Galactic Warp Through Asymmetries in the Kinematics of the Galactic Disk
 
-event: Institute of Advanced Studies (IAS) Coffee Talk
+event: Institute of Advanced Studies (IAS) Lunch Talk
 # event_url: https://aas.org/meetings/aas237
 
-location: Institute of Advanced Studies (IAS)
+location: Remote
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford

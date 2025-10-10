@@ -4,7 +4,7 @@ title: "PRESS RELEASE: Galactic Warp Through the Lenses of Gaia Data Release 2 a
 event: AAS 237 Press Release
 event_url: https://aas.org/meetings/aas237
 
-location: AAS 237
+location: Remote
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
